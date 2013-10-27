@@ -37,33 +37,61 @@
 [submodule "bundle/MatchTag"]
 	path = bundle/MatchTag
 	url = https://github.com/gregsexton/MatchTag.git
+	ignore = dirty
 [submodule "bundle/vim-commentary"]
 	path = bundle/vim-commentary
 	url = git://github.com/tpope/vim-commentary.git
+	ignore = dirty
 [submodule "bundle/vim-repeat"]
 	path = bundle/vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
+	ignore = dirty
 [submodule "bundle/vim-color-solarized"]
 	path = bundle/vim-color-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+	ignore = dirty
 [submodule "bundle/vim-virtualenv.git"]
 	path = bundle/vim-virtualenv.git
 	url = https://github.com/jmcantrell/vim-virtualenv.git
+	ignore = dirty
 [submodule "bundle/vim-css-color"]
 	path = bundle/vim-css-color
 	url = https://github.com/skammer/vim-css-color.git
+	ignore = dirty
 [submodule "bundle/html5.vim"]
 	path = bundle/html5.vim
 	url = https://github.com/othree/html5.vim.git
+	ignore = dirty
 [submodule "bundle/vim-css3-syntax"]
 	path = bundle/vim-css3-syntax
 	url = https://github.com/hail2u/vim-css3-syntax.git
+	ignore = dirty
 [submodule "bundle/vim-less"]
 	path = bundle/vim-less
 	url = https://github.com/groenewege/vim-less.git
+	ignore = dirty
 [submodule "bundle/vim-bundle-mako"]
 	path = bundle/vim-bundle-mako
 	url = https://github.com/sophacles/vim-bundle-mako.git
+	ignore = dirty
 [submodule "bundle/angular-vim-ultisnips"]
 	path = bundle/angular-vim-ultisnips
 	url = https://github.com/matthewsimo/angular-vim-ultisnips.git
+	ignore = dirty
+[submodule "bundle/ag"]
+	path = bundle/ag
+	url = https://github.com/rking/ag.vim
+	ignore = dirty
+[submodule "bundle/neocomplcache.vim"]
+	path = bundle/neocomplcache.vim
+	url = https://github.com/Shougo/neocomplcache.vim.git
+	ignore = dirty
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "bundle/csv.vim"]
+	path = bundle/csv.vim
+	url = https://github.com/chrisbra/csv.vim.git
+[submodule "bundle/angular-vim-snippets"]
+	path = bundle/angular-vim-snippets
+	url = https://github.com/matthewsimo/angular-vim-snippets.git
